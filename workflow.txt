@@ -1,0 +1,5 @@
+- just do some simple animation (done)
+- convert this animation to multiple circle (primarily done)
+tomorrow task : 
+- do alternate animation (i mean random)
+- on mouse controll this
